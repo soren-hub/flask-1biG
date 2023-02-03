@@ -58,4 +58,4 @@ def getProduct_2(data_name):
     return jsonify({"message": "data not found"})
 
 if __name__ == '__main__':
-    app.run(debug=True, port=4000)
+    app.run(debug=True, port=5432)
