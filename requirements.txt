@@ -5,7 +5,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.3
 MarkupSafe==1.1.1
 Werkzeug==1.0.1
-asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1670263926556/work
+
 backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
 backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifacts/backports.functools_lru_cache_1618230623929/work
 certifi==2022.12.7
